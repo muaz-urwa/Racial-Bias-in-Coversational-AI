@@ -7,7 +7,7 @@ Neural Language Models are an important part of virtual speech based assistants.
 
 
 #### Results
-I performed a racial audit of my model by comparing probabilities of negative sentences associated with different race groups. 
+I trained a simple off the shelf language model on a very small dataset for a few epochs. Subsequently,I performed a racial audit of my model by comparing probabilities of negative sentences associated with different race groups. 
 ![R1](R1.png)
 ![R2](R2.png)
 
